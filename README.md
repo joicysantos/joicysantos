@@ -11,6 +11,7 @@ Lover of Technology and coding <3
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joicy-santos-937a24209/)] (https://www.linkedin.com/in/joicy-santos-937a24209/)
 
 
+https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif
 
 
 
