@@ -10,11 +10,14 @@ Lover of Technology and coding <3
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joicy-santos-937a24209/)] (https://www.linkedin.com/in/joicy-santos-937a24209/)
 
-# Linguagens e ferramentas
+# Linguagens e Ferramentas
 
 
 [![joicysantos GitHub stats](https://github-readme-stats.vercel.app/api?username=joicysantos)] (https://github.com/joicysantos/github-readme-stats)
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
+
+
+
 
 
 
