@@ -1,8 +1,7 @@
 
 # Hello World, Sou Joicy Santos!
 
-_ Fullstack Developer <3 
-Lover of Technology and coding <3 
+Lover of Technology and coding <3
 
 # About me
 
