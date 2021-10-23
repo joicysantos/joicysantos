@@ -12,7 +12,7 @@ Lover of Technology and coding <3
 
 # Linguagens e ferramentas
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+
 [![joicysantos GitHub stats](https://github-readme-stats.vercel.app/api?username=joicysantos)] (https://github.com/joicysantos/github-readme-stats)
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
