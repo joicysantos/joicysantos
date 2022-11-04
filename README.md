@@ -1,9 +1,11 @@
 
-# Hello World, Sou Joicy Santos!
+# Olá, pessoal! Sou Joicy Santos.
 
 Lover of Technology and coding <3
 
 # About me
+
+No memento esse perfil está em passando por mudanças. 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joicysantos)] (https://github.com/joicysantos)
 
