@@ -3,9 +3,8 @@
 
   Ninguém olha isso.
 
-# Perfil em andamento
-
-No memento esse perfil está em passando por mudanças. 
+# Perfil em andamento. Quem sabe um dia eu termino isso e coloco uns desenhos para ficar chique.
+O povo gosta dessas paradinhas se mechendo e tal.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joicysantos)] (https://github.com/joicysantos)
 
