@@ -1,7 +1,7 @@
 
-# Olá, pessoal! Sou Joicy Santos.
+# Um pouco sobre mim:
 
-Lover of Technology and coding <3
+  Ninguém olha isso.
 
 # Perfil em andamento
 
