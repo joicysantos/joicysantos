@@ -2,7 +2,7 @@
 
 **`Técnica de Suporte N2`**
 
-Olá sou Joicy Santos, uma profissional da área de Tecnologia da Informação, com forte interesse por novas tecnologias e pelo desenvolvimento de soluções que contribuem para a eficiência dos processos e a melhoria da experiência dos usuários. ".
+Olá sou Joicy Santos, uma profissional da área de Tecnologia da Informação, com forte interesse por novas tecnologias e pelo desenvolvimento de soluções que contribuem para a eficiência dos processos e a melhoria da experiência dos usuários. 
 
 ---
 
